@@ -45,18 +45,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariagheorghita&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariagheorghita&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🏆 Certifications
 
 | 🏅 Certification | 🏢 Issuer | 📅 Date |
+|---|---|---|
 | ChatGPT Prompt Engineering – OpenAI | Bittnet Systems | Feb 2026 |
 | Google Ads Search & Display | Google | Oct–Nov 2025 |
 | Database Design and Programming | Oracle Academy | June 2021 |
